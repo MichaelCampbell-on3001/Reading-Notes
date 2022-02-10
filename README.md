@@ -1,2 +1,8 @@
 # Reading-Notes
-A repo to house my reading notes from Code Fellows
+This site houses my reading notes from Code Fellows.
+
+###### Code 102 - Intro to Software Development
+###### Code 201 - Foundations of Software Development
+###### Code 301 - Intermediate Software Development
+
+###### Code 401 - Advanced Software Development
