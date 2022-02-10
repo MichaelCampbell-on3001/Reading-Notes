@@ -9,4 +9,4 @@ This site houses my reading notes from Code Fellows.
 
 ###### Code 401 - Advanced Software Development
 
-[^1]: Since it had been a while since my last attempt at 301, I created a new repo for my reading notes. My original reading notes repo can be found [here](https://www.example.com) 
+[^1]: Since it had been a while since my last attempt at 301, I created a new repo for my reading notes. My original reading notes repo can be found [here](https://github.com/MichaelCampbell-on3001/2021-reading-notes) 
