@@ -4,7 +4,7 @@
 ### [Component-Based Architecture](https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm)
 
 ###### Question:   
-What is a “component”?
+1. What is a “component”?
 
 ###### Answer:
 A **component** is a modular and reusable set of defined functionality intended to interact with other components, encapsulating certain functionalities.
@@ -17,7 +17,7 @@ According to the article linked above
 
 
 ###### Question:
-What are the characteristics of a component?
+1. What are the characteristics of a component?
 
 ###### Answer:
 The characteristics or a component are reusability, replaceability, context ambiguity, extensible, encapsulated and independent.
@@ -26,7 +26,7 @@ The characteristics or a component are reusability, replaceability, context ambi
 ---
 
 ###### Question:
-What are the advantages of using component-based architecture?
+1. What are the advantages of using component-based architecture?
 ###### Answer:
 Ease of deployment<br> 
 Reduced cost<br> 
