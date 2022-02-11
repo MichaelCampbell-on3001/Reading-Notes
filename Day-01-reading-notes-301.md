@@ -40,8 +40,11 @@ Independent<br>
 [What is Props and How to Use it in React](https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0)
 
 ###### Question: 1. What is “props” short for?
-###### Answer:
+###### Answer: 
+Props is short for Properties <br>
 ###### Question: 2. How are props used in React?
 ###### Answer:
+Props are used for passing data from one component to another <br>
 ###### Question: 3. What is the flow of props?
-###### Answer:
+###### Answer: 
+Unidirectional flow, one way from the parent to the child. 
