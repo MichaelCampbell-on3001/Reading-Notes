@@ -20,7 +20,7 @@ According to the article linked above
 What are the characteristics of a component?
 
 ###### Answer:
-The characteristics or a compnent are reusability, replaceability, they are not context specific, extensible, encapsulated and independent.
+The characteristics or a component are reusability, replaceability, context ambiguity, extensible, encapsulated and independent.
 
 
 ---
@@ -29,12 +29,12 @@ The characteristics or a compnent are reusability, replaceability, they are not 
 What are the advantages of using component-based architecture?
 ###### Answer:
 Ease of deployment<br> 
-Reduced cost 
-Ease of development 
-Reusable 
-Modification of technical complexity 
-Reliability 
-System maintenance and evolution 
-Independent 
+Reduced cost <br> 
+Ease of development <br> 
+Reusable <br> 
+Modification of technical complexity<br>  
+Reliability<br>  
+System maintenance and evolution<br>  
+Independent<br>  
 
 ---
