@@ -33,6 +33,7 @@ Modification of technical complexity<br>
 Reliability<br>
 System maintenance and evolution<br>
 Independent<br>  
+[SOURCE](https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm)
 
 ---
 
