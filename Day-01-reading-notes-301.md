@@ -39,4 +39,4 @@ Independent<br>
 
 ---
 
-
+[What is Props and How to Use it in React](https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0)
