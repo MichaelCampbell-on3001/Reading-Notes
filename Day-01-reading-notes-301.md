@@ -20,7 +20,7 @@ According to the article linked above
 What are the characteristics of a component?
 
 ###### Answer:
-The characteristics or a compnent are reusability, replaceability, they are not context specific, extensible, encapsulated and independent.[^1]
+The characteristics or a compnent are reusability, replaceability, they are not context specific, extensible, encapsulated and independent. [^1]
 
 [^1]: Reusability − Components are usually designed to be reused in different situations in different applications. However, some components may be designed for a specific task.
 
