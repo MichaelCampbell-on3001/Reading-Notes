@@ -28,7 +28,7 @@ The characteristics or a compnent are reusability, replaceability, they are not 
 ###### Question:
 What are the advantages of using component-based architecture?
 ###### Answer:
-Ease of deployment 
+Ease of deployment<br> 
 Reduced cost 
 Ease of development 
 Reusable 
