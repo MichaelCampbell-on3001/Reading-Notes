@@ -1,7 +1,7 @@
 
 # Introduction to React and Components
 
-### Component-Based Architecture
+### [Component-Based Architecture](https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm)
 
 ###### Question:   
 What is a “component”?
@@ -23,3 +23,5 @@ What are the characteristics of a component?
 ###### Question:
 What are the advantages of using component-based architecture?
 ###### Answer:
+
+---
