@@ -29,9 +29,9 @@ The characteristics or a component are reusability, replaceability, context ambi
 What are the advantages of using component-based architecture?
 ###### Answer:
 Ease of deployment<br> 
-Reduced cost <br> 
-Ease of development <br> 
-Reusable <br> 
+Reduced cost<br> 
+Ease of development<br> 
+Reusable<br> 
 Modification of technical complexity<br>  
 Reliability<br>  
 System maintenance and evolution<br>  
