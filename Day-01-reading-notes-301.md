@@ -8,6 +8,7 @@ What is a “component”?
 
 ###### Answer:
 
+---
 
 
 
@@ -17,7 +18,7 @@ What are the characteristics of a component?
 ###### Answer:
 
 
-
+---
 
 ###### Question:
 What are the advantages of using component-based architecture?
