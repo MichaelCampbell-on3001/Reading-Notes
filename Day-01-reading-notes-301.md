@@ -47,4 +47,9 @@ Props is short for Properties <br>
 Props are used for passing data from one component to another <br>
 ###### Question: 3. What is the flow of props?
 ###### Answer: 
-Unidirectional flow, one way from the parent to the child. 
+Unidirectional flow, one way from the parent to the child. <br>
+
+### I have bookmarked the following resources
+
+[React Tutorial through ‘Passing Data Through Props’](https://reactjs.org/tutorial/tutorial.html)
+
