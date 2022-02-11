@@ -7,7 +7,11 @@
 What is a “component”?
 
 ###### Answer:
+A **component** is a modular and reusable set of defined functionality intended to interact with other components, encapsulating certain functionalities.
 
+According to the article linked above 
+> A software component can be defined as a unit of composition with a contractually specified interface and explicit context dependencies only. That is, a software component can be deployed independently and is subject to composition by third parties.
+> 
 ---
 
 
