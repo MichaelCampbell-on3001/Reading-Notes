@@ -32,9 +32,9 @@ Ease of deployment<br>
 Reduced cost<br> 
 Ease of development<br> 
 Reusable<br> 
-Modification of technical complexity<br>  
-Reliability<br>  
-System maintenance and evolution<br>  
+Modification of technical complexity<br>
+Reliability<br>
+System maintenance and evolution<br>
 Independent<br>  
 
 ---
