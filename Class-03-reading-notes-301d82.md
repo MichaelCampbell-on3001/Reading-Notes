@@ -11,10 +11,15 @@
 
 1. What is the spread operator? **It refers to the use of an ellipsis of three dots (…) to expand an iterable object into the list of arguments. It is also quick syntax for adding items to arrays, combining arrays or objects, and spreading an array out into a function’s arguments.**
 2. List 4 things that the spread operator can do.**1. Using an array as arguments 2. Adding to state in React 3.Combining objects 4.Converting NodeList to an array**
-3. Give an example of using the spread operator to combine two arrays.**You can use array concatenation. ex: `const myArray = [`🤪`,`🐻`,`🎌`] <break/>
-const yourArray = [`🙂`,`🤗`,`🤩`]<break/>
-const ourArray = [...myArray,...yourArray]<break/>
+3. Give an example of using the spread operator to combine two arrays.**You can use array concatenation. ex: 
+`const myArray = [`🤪`,`🐻`,`🎌`]
+
+const yourArray = [`🙂`,`🤗`,`🤩`]
+
+const ourArray = [...myArray,...yourArray]
+
 console.log(...ourArray) // 🤪 🐻 🎌 🙂 🤗 🤩`**
+
 4. Give an example of using the spread operator to add a new item to an array.**Answer**
 5. Give an example of using the spread operator to combine two objects into one.**Answer**
 [source](https://medium.com/coding-at-dawn/how-to-use-the-spread-operator-in-javascript-b9e4a8b06fab)
