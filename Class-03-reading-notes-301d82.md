@@ -13,13 +13,13 @@
 2. List 4 things that the spread operator can do.**1. Using an array as arguments 2. Adding to state in React 3.Combining objects 4.Converting NodeList to an array**
 3. Give an example of using the spread operator to combine two arrays. **You can use array concatenation. ex:** 
 
-**`const myArray = [`🤪`,`🐻`,`🎌`]**
+**`const myArray = [`🤪`,`🐻`,`🎌`]`**
 
-**const yourArray = [`🙂`,`🤗`,`🤩`]**
+**`const yourArray = [`🙂`,`🤗`,`🤩`]`**
 
-**const ourArray = [...myArray,...yourArray]**
+**`const ourArray = [...myArray,...yourArray]`**
 
-**console.log(...ourArray) // 🤪 🐻 🎌 🙂 🤗 🤩`**
+**`console.log(...ourArray) // 🤪 🐻 🎌 🙂 🤗 🤩``**
 
 4. Give an example of using the spread operator to add a new item to an array.**Answer**
 5. Give an example of using the spread operator to combine two objects into one.**Answer**
