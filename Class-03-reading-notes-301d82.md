@@ -22,9 +22,12 @@
 **`console.log(...ourArray) // 🤪 🐻 🎌 🙂 🤗 🤩`**
 [source](https://medium.com/coding-at-dawn/how-to-use-the-spread-operator-in-javascript-b9e4a8b06fab)
 
-4. Give an example of using the spread operator to add a new item to an array.**The syntax to add a new item to an array is to  use to syntax `...`. 
+4. Give an example of using the spread operator to add a new item to an array.**The syntax to add a new item to an array is to  use to syntax `(...)`. 
 For example:**
+
 **`const mything =[my stuff]`**
+
 **`const yourthing =[your stuff...my stuff] `**
+
 6. Give an example of using the spread operator to combine two objects into one.**Answer**
 
