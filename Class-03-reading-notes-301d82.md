@@ -19,7 +19,7 @@
 
 **`const ourArray = [...myArray,...yourArray]`**
 
-**`console.log(...ourArray) // 🤪 🐻 🎌 🙂 🤗 🤩``**
+**`console.log(...ourArray) // 🤪 🐻 🎌 🙂 🤗 🤩`**
 
 4. Give an example of using the spread operator to add a new item to an array.**Answer**
 5. Give an example of using the spread operator to combine two objects into one.**Answer**
