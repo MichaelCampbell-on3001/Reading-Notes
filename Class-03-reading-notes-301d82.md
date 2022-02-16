@@ -34,10 +34,10 @@ For example:**
 **`const objectThree = {...objectOne, ...objectTwo, laugh: "😂"}`**
 
 # How to Pass Functions Between Components
-[Source]()
-1. In the video, what is the first step that the developer does to pass functions between components? **Answer**
-2. In your own words, what does the increment function do? **Answer**
-3. How can you pass a method from a parent component into a child component? **Answer**
-4. How does the child component invoke a method that was passed to it from a parent component? **Answer**
+[Source](https://www.youtube.com/watch?v=c05OL7XbwXU)
+1. In the video, what is the first step that the developer does to pass functions between components? **The dev created the function and mapped over the array.**
+2. In your own words, what does the increment function do? **The increment function allows you to search through an array and increase the counter when it finds what you are searching for.**
+3. How can you pass a method from a parent component into a child component? **You can pass it in like any other props**
+4. How does the child component invoke a method that was passed to it from a parent component? **The child passes whatever it was givien back to the increment method above.**
 
 
