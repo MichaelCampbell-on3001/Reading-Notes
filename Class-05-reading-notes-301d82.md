@@ -20,6 +20,6 @@ Can you compute it based on any other state or props in your component? If so, i
 
 1. What is a “higher-order function”? **Higher order functions are functions that operate on other functions, either by taking them as arguments or by returning them.**
 2. Explore the greaterThan function as defined in the reading. In your own words, what is line 2 of this function doing? **`return m => m > n;` isreturning the greater value.**
-3. Explain how either map or reduce operates, with regards to higher-order functions. **Answer**
+3. Explain how either map or reduce operates, with regards to higher-order functions. **You can use map to go over functions and return an array of thoses functions listed by name, while Reduce can be used to find the function with the longest script.**
 
 [^1]: [Source](https://reactjs.org/docs/thinking-in-react.html)
