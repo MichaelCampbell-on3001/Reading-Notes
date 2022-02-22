@@ -9,3 +9,5 @@ How I explained REST to my brother
 - What does a POST do?***POST process checks computer hardware***
 - What does PUT do?***It completely replaces whatever currently exists at the target URL with something else***
 - What does PATCH do?***It is a set of changes to a computer program***
+
+I received my geocoding, weather, yelp and movie api keys.
