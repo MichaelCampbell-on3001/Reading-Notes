@@ -1,7 +1,7 @@
 [API Design Best Practices](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
 
-What does REST stand for?
-REST APIs are designed around a ____.
+1. What does REST stand for?
+2. REST APIs are designed around a ____.
 What is an identifer of a resource? Give an example.
 What are the most common HTTP verbs?
 What should the URIs be based on?
