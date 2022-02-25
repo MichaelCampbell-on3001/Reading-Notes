@@ -30,13 +30,13 @@
  | |
 
 
-5. What causes a Stack Overflow? **Answer**
+5. What causes a Stack Overflow? ** When there is a a function that calls itself without an exit point**
 
 [JavaScript error messages](https://codeburst.io/javascript-error-messages-debugging-d23f84f0ae7c)
 
-1. What is a ‘refrence error’? **Answer**
-2. What is a ‘syntax error’? **Answer**
-3. What is a ‘range error’? **Answer**
-4. What is a ‘tyep error’? **Answer**
-5. What is a breakpoint? **Answer**
-6. What does the word ‘debugger’ do in your code? **Answer**
+1. What is a ‘refrence error’? **An error that is returned when you try to use a variable that is not yet declared you get this type os errors.**
+2. What is a ‘syntax error’? **When something that cannot be parsed in terms of syntax, like trying to parse an invalid object using JSON.parse.**
+3. What is a ‘range error’? **Try to manipulate an object with some kind of length and give it an invalid length.**
+4. What is a ‘type error’? **When accessing a property in an undefined type of variable**
+5. What is a breakpoint? **A breakpoint can be achieved by putting a debugger statement in your code in the line you want to break.**
+6. What does the word ‘debugger’ do in your code? **break it**
