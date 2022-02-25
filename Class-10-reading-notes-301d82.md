@@ -5,7 +5,9 @@
 1. What is a ‘call’? **function invocation**
 2. How many ‘calls’ can happen at once? **one at a time**
 3. What does LIFO mean? **Last In, First Out**
-4. Draw an example of a call stack and the functions that would need to be invoked to generate that call stack. ** `function firstFunction(){
+4. Draw an example of a call stack and the functions that would need to be invoked to generate that call stack.
+
+`function firstFunction(){
   throw new Error('Stack Trace Error');
 }
 
@@ -17,7 +19,7 @@ function thirdFunction(){
   secondFunction();
 }
 
-thirdFunction();` **
+thirdFunction();`
 
 
 5. What causes a Stack Overflow? **Answer**
