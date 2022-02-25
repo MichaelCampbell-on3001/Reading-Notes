@@ -20,10 +20,12 @@
 }`
 
 `thirdFunction();`
- |push | 
+ |push \/ | 
  | ----------- | 
- | Pop| 
+ | Pop /\| 
  | Top  | 
+ | |
+ | |
 
 
 5. What causes a Stack Overflow? **Answer**
