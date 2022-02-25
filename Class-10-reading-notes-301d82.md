@@ -21,10 +21,10 @@
 
 `thirdFunction();`
 
-push ->| | ~pop
-| ----------- | <-top
-|  | 
-|  | 
+Push | | ~pop
+     | ----------- | <-top
+     |  | 
+     |  | 
 
 
 5. What causes a Stack Overflow? **Answer**
