@@ -9,17 +9,17 @@
 
 `function firstFunction(){
   throw new Error('Stack Trace Error');
-}
+}`
 
-function secondFunction(){
+`function secondFunction(){
   firstFunction();
-}
+}`
 
-function thirdFunction(){
+`function thirdFunction(){
   secondFunction();
-}
+}`
 
-thirdFunction();`
+`thirdFunction();`
 
 
 5. What causes a Stack Overflow? **Answer**
