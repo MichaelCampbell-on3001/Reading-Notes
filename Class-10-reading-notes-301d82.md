@@ -21,10 +21,10 @@
 
 `thirdFunction();`
 
-| Syntax |
+| |
 | ----------- |
-| Header | 
-| Paragraph | 
+|  | 
+|  | 
 
 
 5. What causes a Stack Overflow? **Answer**
