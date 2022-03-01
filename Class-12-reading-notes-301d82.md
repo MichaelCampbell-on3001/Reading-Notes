@@ -3,14 +3,23 @@
 In your own words, describe what each group of status code represents:
 
 100’s = **Informational code, lets user know status of loading**
+
 200’s = **Success codes! "hey it's working"**
+
 300’s = **Redirect codes "Hey go to this page now, cuz your page is gone"**
+
 400’s = **Error codes "Uh-oh, something went wrong"**
+
 500’s = **server error codes**
+
 What is a status code 202? **Accepted**
+
 What is a status code 308? **Permanent Redirect**
+
 What code would you use if an update didn’t return data to a client? **404**
+
 What code would you use if a resource used to exist but no longer does?  **308**
+
 What is the ‘Forbidden’ status code?**505**
 
 Why do we need to pull our MongoDB database string out of our server and put it into our .env? **so that it is not pushed up to github**
