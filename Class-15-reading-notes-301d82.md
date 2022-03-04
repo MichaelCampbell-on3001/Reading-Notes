@@ -27,14 +27,14 @@
   
   **- The user sees a successfully completed transaction occurring.**
 
-1. What is OpenID?
+1. What is OpenID? **allows you to use an existing account to sign in to multiple websites, without needing to create new passwords.**
 
 ### [Authorization and Authentication flows](https://auth0.com/docs/flows)
 
-1. What is the difference between authorization and authentication?
-1. What is Authorization Code Flow?
-1. What is Authorization Code Flow with Proof Key for Code Exchange (PKCE)?
-1. What is Implicit Flow with Form Post?
-1. What is Client Credentials Flow?
-1. What is Device Authorization Flow?
-1. What is Resource Owner Password Flow?
+1. What is the difference between authorization and authentication? **authentication is the process of verifying who someone is, whereas authorization is the process of verifying what specific applications, files, and data a user has access to.**
+1. What is Authorization Code Flow? **exchanges an Authorization Code for a token**
+1. What is Authorization Code Flow with Proof Key for Code Exchange (PKCE)? **It is used during authentication, mobile and native applications can use the Authorization Code Flow, but they require additional security. Additionally, single-page apps have special challenges.**
+1. What is Implicit Flow with Form Post? **It is intended for Public Clients, or applications which are unable to securely store Client Secrets.**
+1. What is Client Credentials Flow? **When the system authenticates and authorizes the app rather than a user.**
+1. What is Device Authorization Flow? **rather than authenticate the user directly, the device asks the user to go to a link on their computer or smartphone and authorize the device.**
+1. What is Resource Owner Password Flow? **It requests that users provide credentials (username and password), typically using an interactive form.**
