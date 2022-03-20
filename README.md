@@ -6,17 +6,12 @@ This site houses my reading notes from Code Fellows.
 ~~###### Code 201 - Foundations of Software Development~~ [^1]
 
 
-###### Code 301 - Intermediate Software Development
+# [Code 301 - Intermediate Software Development](301.md)
 
 
-## Week 1
 
-## Week 2
 
-## Week 3
+# [Code 401 - Advanced Software Development](401.md)
 
-## Week 4
+[^1]: I tested into 301 
 
-###### Code 401 - Advanced Software Development
-
-[^1]: It has been a while since my last attempt at 301, I created a new repo for my reading notes and keep the old ones preserved in another repo. My original reading notes repo can be found [here](https://github.com/MichaelCampbell-on3001/2021-reading-notes) 
