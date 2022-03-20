@@ -9,15 +9,15 @@
 
 ## Cloud Service Providers 
 
-### Netlify CLI Tools version 
+### Netlify CLI Tools version 9.13.3
 
 ![Netlify](computer-setup-screenshots/Netlify-setup.png)
 
-## Amazon AWS
+## Amazon AWS version 2.4.26
 ### Amazon AWS Version 
 ![AWS](computer-setup-screenshots/AWS-setup.png)
 
-## Postgres
+## Postgres version 14.2_1
 ### Postgress install success, but failed to start 
 ![Postgres](computer-setup-screenshots/Postgress-install-attempt1.png)
 
