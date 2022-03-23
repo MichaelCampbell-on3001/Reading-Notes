@@ -1,3 +1,5 @@
+# Node Ecosystem, TDD, CI/CD
+
 1. Describe (in plain English) what Array.map() does: **Array.map( ) itirates over an array and return the array with a new specified format.**
 
 1. Describe (in plain English) what Array.reduce() does **Similar to .map .reduce iterates over an element aand provide a callback function or "Accumulator". You can set the values on the accumulator to give it a custom starting positiion. A cycle is complete when it returns the final accumulator value.**
