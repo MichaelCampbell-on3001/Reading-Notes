@@ -123,3 +123,8 @@ This article goes through step by step to use the Router in ExpressJS4.0
         });
 
     ...`
+**Two Take Aways:**
+- Use express.Router() multiple times to define groups of routes
+
+- Use route middleware to process requests
+Use route middleware to validate parameters using .param()
