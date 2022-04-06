@@ -1,6 +1,6 @@
 # Message Queues
 
-## [Socket.io [1] Chat Example](https://socket.io/get-started/chat/)
+## [Socket.io Chat Example](https://socket.io/get-started/chat/) [1]
 
 Check out a working example on your machine:
 
