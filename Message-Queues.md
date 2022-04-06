@@ -1,10 +1,6 @@
 # Message Queues
 
-## [Socket.io Chat Example](https://socket.io/get-started/chat/) [1]
-
-Here's a sentence with a footnote. [^1]
-
-[^1]: This is the footnote.
+## [Socket.io Chat Example](https://socket.io/get-started/chat/) [^1]
 
 Check out a working example on your machine:
 
