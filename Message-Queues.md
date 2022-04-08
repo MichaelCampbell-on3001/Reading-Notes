@@ -1,6 +1,6 @@
 # Message Queues
 
-## [Socket.io [1] Chat Example](https://socket.io/get-started/chat/)
+## [Socket.io Chat Example](https://socket.io/get-started/chat/) [^1]
 
 Check out a working example on your machine:
 
@@ -13,7 +13,7 @@ A simple chat app using Socket.io can be borken done into these steps:
 - Emitting events
 - Broadcasting
 
-[^1] **Socket.IO** is composed of two parts:
+[^1]: **Socket.IO** is composed of two parts:
 - A server that integrates with (or mounts on) the Node.JS HTTP Server socket.io
 - A client library that loads on the browser side socket.io-client
 
