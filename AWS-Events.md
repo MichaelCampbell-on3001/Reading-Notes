@@ -1,6 +1,6 @@
 # Class 19 Reading: AWS Events
 
-##[SQS and SNS Basics](https://www.youtube.com/watch?v=UesxWuZMZqI)
+## [SQS and SNS Basics](https://www.youtube.com/watch?v=UesxWuZMZqI)
 
 Simple Notification Service (SNS) and Simple Queue Service (SQS)
 
